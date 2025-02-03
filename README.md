@@ -1,4 +1,4 @@
-# [Intellichat – AI-Powered Real-time Chat Application](https://intellichat-frontend-045v.onrender.com/) 
+# [Intellichat – AI-Powered Real-time Chat Application](https://intellichat-frontend-045v.onrender.com/)
 
-[Backend ReadMe](./backend/ReadMe.md)  
-[Frontend ReadMe](./frontend/ReadMe.md)  
+[Backend ReadMe](./backend/README.md)  
+[Frontend ReadMe](./frontend/README.md)
